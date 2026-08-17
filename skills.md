@@ -23,6 +23,8 @@ PROGRAMMING SKILLS
 \-c
 
 \-java
+\-java script
+
 
 \-sql
 
